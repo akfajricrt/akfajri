@@ -30,7 +30,7 @@ export default function HomepageHeader(): JSX.Element {
   }, []);
 
   const profileSrc = useBaseUrl("/img/fajri.jpg"); // taruh fotomu di static/img/profile.jpg
-  const cvHref = useBaseUrl("/files/Fajeri-CV.pdf"); // optional, static/files/Fajeri-CV.pdf
+  // const cvHref = useBaseUrl("/files/Fajeri-CV.pdf"); // optional, static/files/Fajeri-CV.pdf
 
   return (
     <header className={clsx("hero", styles.heroBanner)}>
@@ -94,7 +94,7 @@ export default function HomepageHeader(): JSX.Element {
             <div className={styles.actions}>
               <Button
                 component={Link as any}
-                to={cvHref}
+                to={'/'}
                 variant="contained"
                 size="large"
                 className={styles.ctaPrimary}
@@ -104,7 +104,7 @@ export default function HomepageHeader(): JSX.Element {
 
               <Button
                 component={Link as any}
-                to="/docs/about_me"
+                to="/docs/category/about-me"
                 variant="outlined"
                 size="large"
                 className={styles.ctaSecondary}

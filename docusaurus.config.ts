@@ -206,10 +206,10 @@ const config: Config = {
         hashed: true,
 
         // For Docs using Chinese, it is recomended to set:
-        language: ["en", "id"],
+        language: ["en", "zh"],
 
         // Customize the keyboard shortcut to focus search bar (default is "mod+k"):
-        searchBarShortcutKeymap: "s", // Use 'S' key
+        // searchBarShortcutKeymap: "s", // Use 'S' key
         // searchBarShortcutKeymap: "ctrl+shift+f", // Use Ctrl+Shift+F
 
         // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:

@@ -28,7 +28,7 @@ type FeatureItem = {
 const items: FeatureItem[] = [
   {
     title: 'Panduan VPS & Keamanan',
-    link: '/docs/category/panduan-vps-headless',
+    link: '/docs/category/panduan-server',
     Svg: SvgServer,
     badge: 'Production Ready',
     tags: ['Ubuntu', 'Nginx', 'Firewall', 'TLS'],
@@ -38,13 +38,13 @@ const items: FeatureItem[] = [
         best-practice hardening. Termasuk template <b>server block</b> dan checklist deploy.
       </>
     ),
-    cta: { label: 'Buka Panduan', to: '/docs/category/panduan-vps-headless' },
+    cta: { label: 'Buka Panduan', to: '/docs/category/panduan-server' },
   },
   
   
   {
     title: 'Label Studio & Anotasi',
-    link: '/docs/03-panduan-label-studio',
+    link: '/',
     Svg: SvgLabelStudio,
     badge: 'Data-centric',
     tags: ['Nginx', 'Reverse Proxy', 'VPS', 'SSL'],
@@ -54,11 +54,11 @@ const items: FeatureItem[] = [
         ekspor dataset, dan kiat performa untuk tim labeling.
       </>
     ),
-    cta: { label: 'Mulai Anotasi', to: '/docs/03-panduan-label-studio' },
+    cta: { label: 'Mulai Anotasi', to: '/' },
   },
   {
     title: 'AI/ML & Multimodal',
-    link: '/docs/category/ai-ml-multimodal',
+    link: '/',
     Svg: SvgAIML,
     badge: 'Riset Aktif',
     tags: ['LangChain', 'Qwen-VL', 'ChatGLM', 'OCR'],
@@ -68,11 +68,11 @@ const items: FeatureItem[] = [
         serta eksperimen koreksi teks visual lintas bahasa.
       </>
     ),
-    cta: { label: 'Blueprint Riset', to: '/docs/category/ai-ml-multimodal' },
+    cta: { label: 'Blueprint Riset', to: '/' },
   },
   {
     title: 'KB Pribadi (Docusaurus)',
-    link: '/docs/intro',
+    link: '/',
     Svg: SvgDocusaurus,
     badge: 'Docs as Code',
     tags: ['Sidebar', 'MDX Tabs', 'Theme'],
@@ -82,11 +82,11 @@ const items: FeatureItem[] = [
         dan komponen React/TSX kustom untuk dokumentasi hidup.
       </>
     ),
-    cta: { label: 'Mulai di Sini', to: '/docs/intro' },
+    cta: { label: 'Mulai di Sini', to: '/' },
   },
   {
     title: 'C++ Snippets untuk CV/AI',
-    link: '/docs/04-panduan-c++',
+    link: '/docs/category/panduan-c',
     Svg: SvgCpp,
     badge: 'Praktikal',
     tags: ['Overload', 'Templates', 'Perf'],
@@ -96,7 +96,7 @@ const items: FeatureItem[] = [
         interfacing dengan Python/Qt untuk prototyping GUI.
       </>
     ),
-    cta: { label: 'Buka Snippets', to: '/docs/04-panduan-c++' },
+    cta: { label: 'Buka Snippets', to: '/docs/category/panduan-c' },
   },
 ];
 
