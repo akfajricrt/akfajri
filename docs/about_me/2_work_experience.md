@@ -45,7 +45,7 @@ _Agustus 2023 - Desember 2023_
 - Wrote 7 addenda, which have all been approved.
 
 
-<div class="img-small" > ![UNU Jogja](./img/maliya.png)</div>
+<div class="img-small" > ![UNU Jogja](./img/unu.png)</div>
 
 ## Backend Developer
 **full time, the PT Maliya Syahid**   
