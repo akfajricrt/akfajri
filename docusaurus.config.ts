@@ -187,7 +187,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Resume, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ahmad Khoirul Fajeri, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
