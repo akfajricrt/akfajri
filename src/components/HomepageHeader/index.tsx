@@ -92,7 +92,7 @@ export default function HomepageHeader(): JSX.Element {
             </ul>
 
             <div className={styles.actions}>
-              <Button
+              {/* <Button
                 component={Link as any}
                 to={'/'}
                 variant="contained"
@@ -100,7 +100,7 @@ export default function HomepageHeader(): JSX.Element {
                 className={styles.ctaPrimary}
               >
                 Download CV
-              </Button>
+              </Button> */}
 
               <Button
                 component={Link as any}
