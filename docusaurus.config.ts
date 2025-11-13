@@ -115,7 +115,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'DocFajeri',
+      title: 'MySite',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

@@ -150,10 +150,10 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.section}>
       <div className={styles.header}>
-        <Heading as="h2">AICS Hub — Toolkit & Playbooks</Heading>
+        <Heading as="h2">Fajri.dev — Toolkit & Playbooks</Heading>
         <p className={styles.subtitle}>
           Semua yang sering kamu bangun: server, Sistem Informasi, anotasi data,
-          sampai riset AI/ML — diringkas jadi komponen siap pakai.
+          sampai riset AI/ML — diringkas.
         </p>
       </div>
 
