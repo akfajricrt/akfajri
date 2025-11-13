@@ -22,7 +22,6 @@ last_update:
 **Yogyakarta, Indonesia** [^lokasi]
 
 * **HP:** +62 82269079575 [^hp]
-* **Email Kampus:** `fajri@student.unu-jogja.ac.id` 
 * **Email Pribadi:** `ahmadkhfajri@gmail.com` 
 
 
