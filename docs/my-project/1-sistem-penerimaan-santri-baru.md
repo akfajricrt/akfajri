@@ -78,4 +78,3 @@ Proyek ini dikembangkan secara **in-house** untuk kebutuhan digitalisasi pesantr
 > “Digitalisasi bukan hanya tentang teknologi, tetapi tentang efisiensi dan transparansi dalam pelayanan pendidikan pesantren.”
 
 
-

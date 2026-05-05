@@ -21,7 +21,7 @@ const config: Config = {
   baseUrl: '/',
 
   organizationName: 'AICSHub.id', 
-  projectName: 'fajri.github.io', 
+  projectName: 'fajri.dev', 
 
   onBrokenLinks: 'throw',
 
@@ -115,7 +115,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'MySite',
+      title: 'Fajri.dev',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
