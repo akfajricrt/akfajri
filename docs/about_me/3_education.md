@@ -15,7 +15,7 @@ last_update:
 # Education
 
 
-<!-- - Thesis title: "Impact of temperature and indoor environmental quality in nursing homes on thermal comfort of occupants and agitation of residents with dementia". -->
+Thesis title: "Impact of temperature and indoor environmental quality in nursing homes on thermal comfort of occupants and agitation of residents with dementia". 
 
 <div class="img-small" > ![NKU](./img/nku.png)</div>
 
@@ -24,7 +24,6 @@ last_update:
 Nankai University, CN_  
 _September 2025 - Right Now_
 
-<!-- - Grade: 110/110 with honours -->
 
 <div class="img-small" > ![UOW](./img/unu.png)</div>
 

@@ -14,14 +14,6 @@ last_update:
 
 #  Awards
 
-<!-- - 2023: [Future Leader Award](/blog/2023/11/30/airah-awards) – AIRAH (Australian Institute of Refrigeration, Air Conditioning, and Heating)
-- 2023: [Excellence in HVAC&R Research](/blog/2023/11/30/airah-awards) – AIRAH (Australian Institute of Refrigeration, Air Conditioning, and Heating)
-- 2023: First price (Outstanding Video) - [2023 Postdoc Video Challenge](https://www.buildingsandcities.org/video-challenge/gallery-2023.html): "Addressing Grand Challenges" from Buildings & Cities
-- 2023: Horizon Fellowship from the University of Sydney
-- 2021: Outstanding Project Achievement Award - BEARS
-
-- 2011: Erasmus Scholarship -->
-
 * [cite_start]**Spesialisasi Machine Learning** (3 Kursus) dari DeepLearning.AI, Coursera, Stanford University *(Feb 2025)* [cite: 46, 205]
 * [cite_start]**"Unsupervised Learning, Recomenders, Reinforcement Learning"** (Coursera) *(Feb 2025)* [cite: 46, 263]
 * [cite_start]**"Advanced Learning Algorithms"** (Coursera) *(Jan 2025)* [cite: 46, 242]
